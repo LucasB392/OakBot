@@ -7,7 +7,7 @@ public class pokeAPITesting {
     public static void main(String[] args) {
         // Create OkHttpClient instance
         OkHttpClient client = new OkHttpClient();
-        System.out.println("hi");
+        
 
         // Pokémon API URL (e.g., Pikachu)
         String url = "https://pokeapi.co/api/v2/pokemon/pikachu";
